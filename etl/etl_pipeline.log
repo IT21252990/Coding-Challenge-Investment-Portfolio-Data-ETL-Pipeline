@@ -1,0 +1,68 @@
+2025-02-11 18:53:15 - INFO - Extracting data from ../data/holdings_data_1.csv
+2025-02-11 18:53:15 - INFO - Data Extracted successfully from ../data/holdings_data_1.csv
+2025-02-11 18:53:15 - INFO - Transforming holding data...
+2025-02-11 18:53:15 - INFO - Successfully Transformed holding data... with 15
+2025-02-11 18:53:15 - INFO - Inserting data in to holdings_staging
+2025-02-11 18:53:15 - INFO - Connecting the DB..
+2025-02-11 18:53:16 - ERROR - Error with Inserting data to holdings_staging : syntax error at or near "VALUES"
+LINE 1: ...ty_id, exchange, quantity, market_value, currency VALUES ('2...
+                                                             ^
+
+2025-02-11 18:56:21 - INFO - Extracting data from ../data/holdings_data_1.csv
+2025-02-11 18:56:21 - INFO - Data Extracted successfully from ../data/holdings_data_1.csv
+2025-02-11 18:56:21 - INFO - Transforming holding data...
+2025-02-11 18:56:21 - INFO - Successfully Transformed holding data... with 15
+2025-02-11 18:56:21 - INFO - Inserting data in to holdings_staging
+2025-02-11 18:56:21 - INFO - Connecting the DB..
+2025-02-11 18:56:21 - INFO - Data Inserted successfully for the holdings_staging
+2025-02-11 18:56:21 - INFO - Extracting data from ../data/holdings_data_2.csv
+2025-02-11 18:56:21 - INFO - Data Extracted successfully from ../data/holdings_data_2.csv
+2025-02-11 18:56:21 - INFO - Transforming holding data...
+2025-02-11 18:56:21 - INFO - Successfully Transformed holding data... with 15
+2025-02-11 18:56:21 - INFO - Inserting data in to holdings_staging
+2025-02-11 18:56:21 - INFO - Connecting the DB..
+2025-02-11 18:56:21 - INFO - Data Inserted successfully for the holdings_staging
+2025-02-11 18:56:21 - INFO - Extracting data from ../data/portfolio_stats_1.csv
+2025-02-11 18:56:21 - INFO - Data Extracted successfully from ../data/portfolio_stats_1.csv
+2025-02-11 18:56:21 - INFO - Transforming portfolio_stats data...
+2025-02-11 18:56:21 - INFO - Successfully Transformed portfolio_stats data... with 10
+2025-02-11 18:56:21 - INFO - Inserting data in to portfolio_stats_staging
+2025-02-11 18:56:21 - INFO - Connecting the DB..
+2025-02-11 18:56:22 - INFO - Data Inserted successfully for the portfolio_stats_staging
+2025-02-11 18:56:22 - INFO - Extracting data from ../data/portfolio_stats_2.csv
+2025-02-11 18:56:22 - INFO - Data Extracted successfully from ../data/portfolio_stats_2.csv
+2025-02-11 18:56:22 - INFO - Transforming portfolio_stats data...
+2025-02-11 18:56:22 - INFO - Successfully Transformed portfolio_stats data... with 10
+2025-02-11 18:56:22 - INFO - Inserting data in to portfolio_stats_staging
+2025-02-11 18:56:22 - INFO - Connecting the DB..
+2025-02-11 18:56:22 - INFO - Data Inserted successfully for the portfolio_stats_staging
+2025-02-11 19:18:10 - INFO - Starting ETL pipeline...
+2025-02-11 19:18:10 - INFO - Extracting data from ../data/holdings_data_1.csv
+2025-02-11 19:18:10 - INFO - Data Extracted successfully from ../data/holdings_data_1.csv
+2025-02-11 19:18:10 - INFO - Transforming holding data...
+2025-02-11 19:18:10 - INFO - Successfully Transformed holding data... with 15
+2025-02-11 19:18:10 - INFO - Inserting data in to holdings_staging
+2025-02-11 19:18:10 - INFO - Connecting the DB..
+2025-02-11 19:18:10 - INFO - Data Inserted successfully for the holdings_staging
+2025-02-11 19:18:10 - INFO - Extracting data from ../data/holdings_data_2.csv
+2025-02-11 19:18:10 - INFO - Data Extracted successfully from ../data/holdings_data_2.csv
+2025-02-11 19:18:10 - INFO - Transforming holding data...
+2025-02-11 19:18:10 - INFO - Successfully Transformed holding data... with 15
+2025-02-11 19:18:10 - INFO - Inserting data in to holdings_staging
+2025-02-11 19:18:10 - INFO - Connecting the DB..
+2025-02-11 19:18:10 - INFO - Data Inserted successfully for the holdings_staging
+2025-02-11 19:18:10 - INFO - Extracting data from ../data/portfolio_stats_1.csv
+2025-02-11 19:18:10 - INFO - Data Extracted successfully from ../data/portfolio_stats_1.csv
+2025-02-11 19:18:10 - INFO - Transforming portfolio_stats data...
+2025-02-11 19:18:10 - INFO - Successfully Transformed portfolio_stats data... with 10
+2025-02-11 19:18:10 - INFO - Inserting data in to portfolio_stats_staging
+2025-02-11 19:18:10 - INFO - Connecting the DB..
+2025-02-11 19:18:10 - INFO - Data Inserted successfully for the portfolio_stats_staging
+2025-02-11 19:18:10 - INFO - Extracting data from ../data/portfolio_stats_2.csv
+2025-02-11 19:18:10 - INFO - Data Extracted successfully from ../data/portfolio_stats_2.csv
+2025-02-11 19:18:10 - INFO - Transforming portfolio_stats data...
+2025-02-11 19:18:10 - INFO - Successfully Transformed portfolio_stats data... with 10
+2025-02-11 19:18:10 - INFO - Inserting data in to portfolio_stats_staging
+2025-02-11 19:18:10 - INFO - Connecting the DB..
+2025-02-11 19:18:10 - INFO - Data Inserted successfully for the portfolio_stats_staging
+2025-02-11 19:18:10 - INFO - ETL pipeline was ran successfully...
